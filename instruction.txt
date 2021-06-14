@@ -1,0 +1,10 @@
+
+*****Instruction for Playing the Game*****
+
+Rule 1: By default the level of the Game will be Level 1
+Rule 2: You can change the Level of the Game under Level Option
+Rule 3: Easy Level: You have to Guess a Number between 1 and 50
+Rule 4: Medium Level: You have to Guess a Number between 1 and 100
+Rule 5: Hard Level: You have to Guess a Number between 1 and 500
+
+This game is Created by Vinay Pratap Singh
