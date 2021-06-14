@@ -55,6 +55,7 @@ def game_medium():
             with open("high_score.txt","w") as f:
                 f.write(str(count))
     count=0    
+
     high_score()
 
 
@@ -127,5 +128,5 @@ def menu():
     else:
         print("Please enter a Valid Option\n")
         menu()     
-
+#Calling the main function here
 menu()
